@@ -1,1 +1,1 @@
-from mirrorgooglecontainers/defaultbackend-arm64
+from mirrorgooglecontainers/defaultbackend-arm64:1.4
